@@ -1,0 +1,9 @@
+{
+    "name": "nana",
+    "version": "1.1.7-5",
+    "description": "安娜",
+    "main": "dist/main/index.js",
+    "appId": "com.nana.serviceG",
+    "author": "安娜网",
+    "license": "UNLICENSED"
+}

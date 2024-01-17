@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Windows>
+<!-- 进度 -->
+  <VerticalLayout>
+      <ImageShow images="uninstall.png" imagecount="3" loop="true" width="670" height="366" elapse="1500" corner="0 0 0 0"/>
+	<Control />
+	<Slider name="slrUnInstProgress" padding="0,0,0,0" height="4" width="670" mouse="false" foreimage="uninst_process_top.png" bkimage="uninst_process_bottom.png" thumbsize="0,0" bkcolor="#FFDB4C4C"  />
+	</VerticalLayout>
+</Windows>

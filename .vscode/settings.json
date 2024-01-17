@@ -1,0 +1,34 @@
+{
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 30000,
+  "editor.formatOnSave": false,
+  "stylelint.enable": true,
+  "stylelint.validate": [
+    "css",
+    "less",
+    "postcss",
+    "scss",
+    "vue",
+    "sass"
+  ],
+ "editor.codeActionsOnSave": {
+    "source.organizeImports": "explicit",
+    "source.fixAll.eslint": "explicit",
+    "source.fixAll.stylelint": "explicit"
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[html]": {
+    "editor.linkedEditing": true,
+  },
+  "files.watcherExclude": {
+    "**/.git": true,
+    "**/dist/**": true,
+    "**/build/**": true,
+    "**/temp/**": true,
+  },
+  "search.exclude": {
+    "**/dist": true,
+    "**/build": true,
+  },
+  "vue-scss-variable-scan.globalPath": "src/render/styles/variables.scss",
+}

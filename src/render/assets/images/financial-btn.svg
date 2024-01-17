@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="113px" height="47px" viewBox="0 0 113 47" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 23</title>
+    <defs>
+        <linearGradient x1="89.8162358%" y1="47.1922465%" x2="0.539269936%" y2="54.6264165%" id="linearGradient-1">
+            <stop stop-color="#596EDE" offset="0%"></stop>
+            <stop stop-color="#586DE4" offset="0%"></stop>
+            <stop stop-color="#866ED5" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-9.5%" y="-31.0%" width="119.0%" height="162.1%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="3" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <linearGradient x1="89.8162358%" y1="47.7431137%" x2="0.539269936%" y2="53.7187367%" id="linearGradient-3">
+            <stop stop-color="#596EDE" offset="0%"></stop>
+            <stop stop-color="#586DE4" offset="0%"></stop>
+            <stop stop-color="#866ED5" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="设计效果图" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组-23" transform="translate(3.000000, 9.000000)">
+            <path d="M6.5,0.5 L86.7624218,0.5 L100.185166,14.196411 L86.795872,28.5 L6.5,28.5 L6.5,0.5 Z" id="矩形" stroke="#726FB9" fill="url(#linearGradient-1)" opacity="0.0857812791" filter="url(#filter-2)" transform="translate(53.438735, 14.500000) scale(-1, 1) translate(-53.438735, -14.500000) "></path>
+            <path d="M86.7680398,2.5 L100.145658,15.6367035 L86.8223688,27.5 L6.5,27.5 L6.5,2.5 L86.7680398,2.5 Z" id="矩形备份" stroke="#726FB9" fill="url(#linearGradient-3)" opacity="0.420623053" transform="translate(53.438735, 15.000000) scale(-1, 1) translate(-53.438735, -15.000000) "></path>
+            <circle id="椭圆形" fill="#948CFF" opacity="0.388881138" cx="6" cy="15" r="6"></circle>
+            <circle id="椭圆形备份-2" fill="#948CFF" cx="6" cy="15" r="4"></circle>
+            <circle id="椭圆形备份-6" fill="#7D58FF" cx="6" cy="15" r="2"></circle>
+            <rect id="矩形备份-8" fill="#835FF0" x="97" y="2" width="4" height="26"></rect>
+            <text id="智慧大屏" font-family="PingFangSC-Medium, PingFang SC" font-size="14" font-weight="400" letter-spacing="0.8" fill="#F1EFFF">
+                <tspan x="28" y="20">智慧大屏</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

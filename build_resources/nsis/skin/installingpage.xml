@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Windows>
+	<!-- 进度 -->
+	 <VerticalLayout >
+	<ImageShow images="installing1.jpg installing2.jpg" imagecount="4" loop="true" width="670" height="478" corner="0 0 0 0" />
+	<Control />
+			<Slider name="slrProgress" padding="0,0,0,0" height="6" width="670" mouse="false" foreimage="process_top.png" bkimage="process_bottom.png" thumbsize="0,0" bkcolor="#FFD8D8D8" />
+	</VerticalLayout >
+</Windows>

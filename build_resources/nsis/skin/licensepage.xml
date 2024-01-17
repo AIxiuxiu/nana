@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Windows>
+<!-- 许可 -->
+      <VerticalLayout visible="false" name="licenseshow" float="true" bkimage="file='license_bg.png' corner='12,12,12,12'" pos="10,35,660,475">
+	  
+		<Container height="10" />
+        <Label name="licensename" text="《用户许可协议》"  font="5" align="center" textcolor="0xFF000000"/>
+        <Container height="4" />
+		
+      	<RichEdit padding="15,10,15,10" width="640" height="325" name="editLicense" autovscroll="true" vscrollbar="true" readonly="true" textcolor="0xFF000000"   inset="12,12,2,12" bordersize="3"  />
+        
+        <HorizontalLayout height="40">
+        	<Container />
+          <Button name="btnAgree" normalimage="file='ok.png' source='0,0,68,30'" pushedimage="file='ok.png' source='0,30,68,60'" hotimage="file='ok.png' source='0,60,68,90'" width="68" height="30" />
+          <Container />
+        </HorizontalLayout>
+                
+      </VerticalLayout>
+	</Windows>

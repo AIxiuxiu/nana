@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Windows>
+	<!-- 完成 -->
+	<VerticalLayout bkimage="file='install_finish.jpg'  corner='0 0 0 0'">
+		<Button name="btnRun" padding="275,380,0,0" normalimage="file='star.png' source='0,0,120,38'" hotimage="file='star.png' source='0,38,120,76'" pushedimage="file='star.png' source='0,76,120,114'" height="38" width="120" />
+	</VerticalLayout>
+</Windows>
